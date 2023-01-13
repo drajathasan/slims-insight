@@ -1,5 +1,8 @@
 <?php
-
+/**
+ * Modification from :
+ * https://github.com/nunomaduro/phpinsights/blob/master/src/Application/Adapters/Laravel/Commands/InsightsCommand.php
+ */
 declare(strict_types=1);
 
 namespace Drajat\SLiMSInsight;
